@@ -10,6 +10,11 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=FoushWare&show_icons=true&border=true" alt="foush's Github stats">
 </p><br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foushware&layout=compact" alt="foush's Github langs">
+</p><br>
+
 <h1 align="center">My Skills</h1>
 <p align="center">
 <br>
