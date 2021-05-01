@@ -15,6 +15,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foushware&layout=compact" alt="foush's Github langs">
 </p><br>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=foushware&v=2" alt="foush's wakatimes">
+</p><br>
+
+
 <h1 align="center">My Skills</h1>
 <p align="center">
 <br>
