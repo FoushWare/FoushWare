@@ -3,7 +3,7 @@
 </p>
 <h2 align="center">Hola Amigos <img width="30px" src="https://github.com/FoushWare/FoushWare/blob/master/gifs/Hi.gif">,I'm <a href="https://foushware.com/">Foush</a></h2>
 
- <h3> 📝 About </h3>
+ <h3 align="center"> 📝 About </h3>
 <p align="center">
    <samp>
   I'm a Full Stack Web Developer and a Tech Enthusiast who loves everything which involves code💻. I love to explore all fields related to programming.In my free time I like to go to the gym (🏋🏻‍♂️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) .
@@ -12,7 +12,7 @@
 </p>
 
 
-### 🚀 Some Status
+<h3 align="center"> 🚀 Some Status</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=FoushWare&show_icons=true&border=true" alt="foush's Github stats">
 </p><br>
