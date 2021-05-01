@@ -2,19 +2,27 @@
   <img  src="https://github.com/FoushWare/FoushWare/blob/master/gifs/Developer.gif" alt="Developer gif">
 </p>
 <h2 align="center">Hola Amigos <img width="30px" src="https://github.com/FoushWare/FoushWare/blob/master/gifs/Hi.gif">,I'm <a href="https://foushware.com/">Foush</a></h2>
+
+ <h3> 📝 About </h3>
 <p align="center">
-  <samp>
-  I'm a Full Stack Web Developer and a Tech Enthusiast who loves everything which involves code💻. I love to explore all fields related to programming
+   <samp>
+  I'm a Full Stack Web Developer and a Tech Enthusiast who loves everything which involves code💻. I love to explore all fields related to programming.In my free time I like to go to the gym (🏋🏻‍♂️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) .
+
   </samp>
 </p>
+
+
+### 🚀 Some Status
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=FoushWare&show_icons=true&border=true" alt="foush's Github stats">
 </p><br>
 
+<h3 align="center">🔝 Langagues & Technologies</h3>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foushware&layout=compact" alt="foush's Github langs">
 </p><br>
-<p align="center"><strong>Last week</strong> waka houres</p>
+<p align="center"><strong>⌛ Last week</strong> Code Time</p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=foushware&v=2" alt="foush's wakatimes">
 </p><br>
@@ -36,6 +44,9 @@
 <code><img height="60" src="https://user-images.githubusercontent.com/18531447/87720086-b00e7680-c7b4-11ea-8879-06b51fb3873f.png"></code>
 
 </p><br>
+
+
+
 <h1 align="center">Catch Me At</h1>
 <p align="center">
 <br>
