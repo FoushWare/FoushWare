@@ -52,7 +52,7 @@
 <br>
 <a href="https://www.facebook.com/foush60"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>&nbsp;
 <a href="https://www.instagram.com/foush60/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>&nbsp;
-<a href="https://foushware.com/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https://foushware.com/"></a>
+<a href="https://foushware.netlify.app/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https://foushware.com/"></a>
 </p>
 
 <p align="center">
