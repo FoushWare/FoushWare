@@ -23,7 +23,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foushware&layout=compact" alt="foush's Github langs">
 </p><br>
-<p align="center"><strong>⌛ Last week</strong> Code Time</p>
+<p align="center"><strong>⌛ This Week</strong> Code Time</p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=foushware&v=2" alt="foush's wakatimes">
 </p><br>
