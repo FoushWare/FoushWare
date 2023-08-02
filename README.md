@@ -8,7 +8,7 @@
  <h3 align="center"> 📝 About </h3>
 <p align="center">
    <samp>
-  I'm a Full Stack Web Developer and a Tech Enthusiast who loves everything which involves code💻. I love to explore all fields related to programming.In my free time I like to go to the gym (🏋🏻‍♂️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) .
+  I'm a Full Stack Web Developer and a Tech Enthusiast who loves everything which involves code💻. I love to explore all fields related to programming.In my free time I like to go to the gym (🏋🏻‍♂️), watch movies (🎞️) and TV series (📺), read books (📚) and listen to music (🎵) .
 
   </samp>
 </p>
