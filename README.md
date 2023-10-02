@@ -3,7 +3,11 @@
 <p align='center'>
   <img  src="https://github.com/FoushWare/FoushWare/blob/master/gifs/Developer.gif" alt="Developer gif">
 </p>
-<h2 align="center">Hola Amigos <img width="30px" src="https://github.com/FoushWare/FoushWare/blob/master/gifs/Hi.gif">,I'm <a href="https://foushware.netlify.app/">Foush</a></h2>
+<h2 align="center">
+  Hey there, welcome!
+  I'm <a href="https://foushware.netlify.app/">Foush</a>
+
+</h2>
 
  <h3 align="center"> 📝 About </h3>
 <p align="center">
